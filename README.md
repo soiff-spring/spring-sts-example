@@ -8,8 +8,6 @@
 
 > *Yes*
 
-> [Update Sites](http://spring.io/tools/sts/all)
-
 1. Start eclipse and click menu item as `Eclipse`->`Window`->`Preferences`->`Install/Update`->`Available Software Site`->`Add`;
 2. Copy site address from [Update Sites](http://spring.io/tools/sts/all),such as: http://dist.springsource.com/release/TOOLS/update/e4.5/ ;
 3. Paste site address to `Location` and name your site, such as `Spring STS`;

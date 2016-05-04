@@ -7,6 +7,7 @@
 ## Can I integrate STS to my Eclipse?
 
 > *Yes*
+
 > [Update Sites](http://spring.io/tools/sts/all)
 
 1. Start eclipse and click menu item as `Eclipse`->`Window`->`Preferences`->`Install/Update`->`Available Software Site`->`Add`;
@@ -27,4 +28,4 @@
 1. Exit eclipse;
 1. Restart eclipse;
 
-`Please DO NOT try to restart eclipse from 'File->Restart' menu, it could not work sometimes.`
+`Please DO NOT try to restart eclipse from 'File->Restart' menu directly, it may not work sometime.`
